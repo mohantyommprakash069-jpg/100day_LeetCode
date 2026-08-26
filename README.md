@@ -67,10 +67,12 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0136-single-number/) | Easy |
+| [0260-single-number-iii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0260-single-number-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0136-single-number/) | Easy |
+| [0260-single-number-iii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0260-single-number-iii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -67,6 +67,7 @@ LeetCode-Solutions/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0136-single-number/) | Easy |
@@ -104,5 +105,10 @@ LeetCode-Solutions/
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->

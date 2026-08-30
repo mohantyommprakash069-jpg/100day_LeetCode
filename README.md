@@ -55,6 +55,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@ LeetCode-Solutions/
 | [0013-roman-to-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +89,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0136-single-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0136-single-number/) | Easy |
 | [0260-single-number-iii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0260-single-number-iii/) | Medium |
+| [2351-first-letter-to-appear-twice](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +126,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 <!---LeetCode Topics End-->

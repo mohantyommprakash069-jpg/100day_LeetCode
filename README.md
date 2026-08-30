@@ -86,6 +86,7 @@ LeetCode-Solutions/
 | [0260-single-number-iii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,4 +133,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 <!---LeetCode Topics End-->

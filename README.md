@@ -59,6 +59,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0066-plus-one/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@ LeetCode-Solutions/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |

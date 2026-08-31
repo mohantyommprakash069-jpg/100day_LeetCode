@@ -87,6 +87,7 @@ LeetCode-Solutions/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0260-single-number-iii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -132,6 +133,7 @@ LeetCode-Solutions/
 | [0004-median-of-two-sorted-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -163,4 +165,12 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0169-majority-element/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->

@@ -85,6 +85,7 @@ LeetCode-Solutions/
 | [0189-rotate-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0260-single-number-iii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Bit Manipulation
@@ -114,6 +115,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +143,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->

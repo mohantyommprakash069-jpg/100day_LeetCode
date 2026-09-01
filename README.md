@@ -54,6 +54,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0771-jewels-and-stones](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
@@ -84,6 +85,7 @@ LeetCode-Solutions/
 | [0066-plus-one](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0162-find-peak-element/) | Medium |
@@ -186,4 +188,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->

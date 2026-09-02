@@ -100,6 +100,7 @@ LeetCode-Solutions/
 | [0209-minimum-size-subarray-sum](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0260-single-number-iii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0705-design-hashset](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -131,6 +132,7 @@ LeetCode-Solutions/
 | [0088-merge-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |

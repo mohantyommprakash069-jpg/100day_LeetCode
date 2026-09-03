@@ -71,6 +71,7 @@ LeetCode-Solutions/
 | [0189-rotate-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@ LeetCode-Solutions/
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

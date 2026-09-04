@@ -118,6 +118,7 @@ LeetCode-Solutions/
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +211,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |

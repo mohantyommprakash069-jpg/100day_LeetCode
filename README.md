@@ -85,6 +85,7 @@ LeetCode-Solutions/
 | [0125-valid-palindrome](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0771-jewels-and-stones](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Array
@@ -148,6 +149,7 @@ LeetCode-Solutions/
 | [0344-reverse-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0392-is-subsequence](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +202,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0392-is-subsequence](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |

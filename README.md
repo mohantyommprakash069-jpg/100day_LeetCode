@@ -194,6 +194,7 @@ LeetCode-Solutions/
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0705-design-hashset](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Heap (Priority Queue)

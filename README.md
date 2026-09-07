@@ -82,6 +82,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0115-distinct-subsequences](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
@@ -98,6 +99,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0035-search-insert-position/) | Easy |
@@ -269,4 +271,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->

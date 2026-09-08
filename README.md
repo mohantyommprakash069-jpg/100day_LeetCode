@@ -72,6 +72,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -87,6 +88,7 @@ LeetCode-Solutions/
 | [0020-valid-parentheses](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0115-distinct-subsequences](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -134,6 +136,7 @@ LeetCode-Solutions/
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0136-single-number/) | Easy |
 | [0260-single-number-iii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -174,6 +177,7 @@ LeetCode-Solutions/
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0067-add-binary/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |

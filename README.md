@@ -57,6 +57,7 @@ LeetCode-Solutions/
 | [0013-roman-to-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0290-word-pattern/) | Easy |
@@ -74,6 +75,7 @@ LeetCode-Solutions/
 | [0066-plus-one](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -163,6 +165,7 @@ LeetCode-Solutions/
 | [0088-merge-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -311,4 +314,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->

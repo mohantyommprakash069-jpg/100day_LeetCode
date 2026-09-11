@@ -146,6 +146,7 @@ LeetCode-Solutions/
 | [3876-construct-uniform-parity-array-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +200,7 @@ LeetCode-Solutions/
 | [0067-add-binary](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0844-backspace-string-compare](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

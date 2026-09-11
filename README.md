@@ -142,6 +142,7 @@ LeetCode-Solutions/
 | [1929-concatenation-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3861-minimum-capacity-box](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |

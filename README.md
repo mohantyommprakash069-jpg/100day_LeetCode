@@ -145,6 +145,7 @@ LeetCode-Solutions/
 | [3861-minimum-capacity-box](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -293,6 +294,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

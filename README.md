@@ -82,6 +82,7 @@ LeetCode-Solutions/
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3870-count-commas-in-range](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -371,4 +372,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 <!---LeetCode Topics End-->

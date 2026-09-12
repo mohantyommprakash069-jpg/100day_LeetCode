@@ -107,6 +107,7 @@ LeetCode-Solutions/
 | [0771-jewels-and-stones](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -169,6 +170,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0844-backspace-string-compare](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |

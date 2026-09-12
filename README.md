@@ -147,6 +147,7 @@ LeetCode-Solutions/
 | [1480-running-sum-of-1d-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3861-minimum-capacity-box](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3861-minimum-capacity-box/) | Easy |
@@ -208,6 +209,7 @@ LeetCode-Solutions/
 | [0451-sort-characters-by-frequency](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +229,7 @@ LeetCode-Solutions/
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +267,7 @@ LeetCode-Solutions/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -145,6 +145,7 @@ LeetCode-Solutions/
 | [0283-move-zeroes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0682-baseball-game](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0835-image-overlap](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -177,6 +178,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0682-baseball-game](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
@@ -221,6 +223,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0682-baseball-game](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |

@@ -57,6 +57,7 @@ LeetCode-Solutions/
 | [0013-roman-to-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -197,6 +198,7 @@ LeetCode-Solutions/
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0202-happy-number/) | Easy |
@@ -264,6 +266,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0705-design-hashset](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -376,6 +379,7 @@ LeetCode-Solutions/
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0202-happy-number/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |

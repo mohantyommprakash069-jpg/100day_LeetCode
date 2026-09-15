@@ -149,6 +149,7 @@ LeetCode-Solutions/
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0682-baseball-game](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0705-design-hashset/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0835-image-overlap](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -311,6 +312,7 @@ LeetCode-Solutions/
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0766-toeplitz-matrix](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0835-image-overlap](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Union-Find

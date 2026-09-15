@@ -149,6 +149,7 @@ LeetCode-Solutions/
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0682-baseball-game](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0705-design-hashset/) | Easy |
+| [0724-find-pivot-index](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0835-image-overlap](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -302,6 +303,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0724-find-pivot-index](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |

@@ -259,6 +259,7 @@ LeetCode-Solutions/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -433,4 +434,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->

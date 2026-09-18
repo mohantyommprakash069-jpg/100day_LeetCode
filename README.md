@@ -72,6 +72,7 @@ LeetCode-Solutions/
 | [0771-jewels-and-stones](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2351-first-letter-to-appear-twice](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -118,6 +119,7 @@ LeetCode-Solutions/
 | [0844-backspace-string-compare](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2351-first-letter-to-appear-twice](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Array
@@ -240,6 +242,7 @@ LeetCode-Solutions/
 | [0451-sort-characters-by-frequency](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -284,6 +287,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Linked List

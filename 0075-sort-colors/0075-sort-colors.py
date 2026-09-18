@@ -4,18 +4,18 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
-        left = 0
-        right = len(nums)-1
+        low = 0
+        high = len(nums)-1
         mid = 0
 
-        while mid <= right:
+        while mid <= high:
 
             if nums[mid] == 0:
-                temp = nums[left]
-                nums[left] = nums[mid]
+                temp = nums[low]
+                nums[low] = nums[mid]
                 nums[mid] = temp
 
-                left += 1
+                low += 1
                 mid += 1
 
             elif nums[mid] == 1:
@@ -23,9 +23,9 @@ class Solution(object):
 
             else:
                 temp = nums[mid]
-                nums[mid] = nums[right]
-                nums[right] = temp
+                nums[mid] = nums[high]
+                nums[high] = temp
 
-                right -= 1
+                high -= 1
 
         

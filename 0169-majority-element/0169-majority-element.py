@@ -24,3 +24,12 @@ class Solution(object):
 
             if count[i] > len(nums) // 2:
                 return i
+
+        for i in range(len(nums)):
+            for j in range(i+1,len(nums)):
+                if nums[i]>nums[j]:
+                    temp = nums[i]
+                    nums[i] = nums[j]
+                    nums[j] = temp
+        mid=len(nums)//2
+        return nums[mid]            

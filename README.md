@@ -92,6 +92,7 @@ LeetCode-Solutions/
 | [0189-rotate-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
+| [0263-ugly-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |

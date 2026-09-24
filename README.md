@@ -186,6 +186,7 @@ LeetCode-Solutions/
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1929-concatenation-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2706-buy-two-chocolates](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -268,6 +269,7 @@ LeetCode-Solutions/
 | [0977-squares-of-a-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2706-buy-two-chocolates](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -318,6 +320,7 @@ LeetCode-Solutions/
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2706-buy-two-chocolates](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

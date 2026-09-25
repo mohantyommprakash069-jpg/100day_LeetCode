@@ -338,6 +338,7 @@ LeetCode-Solutions/
 | [0141-linked-list-cycle](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0705-design-hashset](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |

@@ -185,6 +185,7 @@ LeetCode-Solutions/
 | [0904-fruit-into-baskets](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |

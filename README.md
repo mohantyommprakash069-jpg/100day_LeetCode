@@ -139,6 +139,7 @@ LeetCode-Solutions/
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Array
@@ -237,6 +238,7 @@ LeetCode-Solutions/
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1544-make-the-string-great](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1544-make-the-string-great/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +294,7 @@ LeetCode-Solutions/
 | [0682-baseball-game](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Binary Search

@@ -137,6 +137,7 @@ LeetCode-Solutions/
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1544-make-the-string-great](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1544-make-the-string-great/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -242,12 +243,14 @@ LeetCode-Solutions/
 | [1096-brace-expansion-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1544-make-the-string-great](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1544-make-the-string-great/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

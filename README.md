@@ -180,6 +180,7 @@ LeetCode-Solutions/
 | [0260-single-number-iii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0321-create-maximum-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0682-baseball-game](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0682-baseball-game/) | Easy |
@@ -238,6 +239,7 @@ LeetCode-Solutions/
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0321-create-maximum-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0682-baseball-game](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -269,6 +271,7 @@ LeetCode-Solutions/
 | [0189-rotate-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0321-create-maximum-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0344-reverse-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -346,6 +349,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0321-create-maximum-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -555,4 +559,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1096-brace-expansion-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0321-create-maximum-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 <!---LeetCode Topics End-->

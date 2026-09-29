@@ -9,10 +9,25 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        fast=head
-        slow=head
-        while fast is not None and fast.next is not None:
-            slow=slow.next
-            fast=fast.next.next
-        return slow
+        # fast=head
+        # slow=head
+        # while fast is not None and fast.next is not None:
+        #     slow=slow.next
+        #     fast=fast.next.next
+        # return slow
+        
+        count = 0
+        temp = head
+
+        while temp is not None:
+            count += 1
+            temp = temp.next
+
+        temp = head
+
+        for i in range(1,(count // 2)+1):
+            temp = temp.next
+
+        return temp
+
         

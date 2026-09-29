@@ -6,29 +6,20 @@
 
 class Solution(object):
     def getIntersectionNode(self, headA, headB):
-        """
-        :type head1, head1: ListNode
-        :rtype: ListNode
-        """
-        dummyA = ListNode(0)
-        dummyB = ListNode(0)
 
-        dummyA.next = headA
-        dummyB.next = headB
-
-        temp1 = dummyA
-        temp2 = dummyB
+        temp1 = headA
+        temp2 = headB
 
         while temp1 != temp2:
+
             if temp1 is None:
-                temp1 = dummyB.next
+                temp1 = headB
             else:
                 temp1 = temp1.next
 
             if temp2 is None:
-                temp2 = dummyA.next
+                temp2 = headA
             else:
                 temp2 = temp2.next
 
         return temp1
-     

@@ -98,6 +98,7 @@ LeetCode-Solutions/
 | [0263-ugly-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -376,6 +377,7 @@ LeetCode-Solutions/
 | [0237-delete-node-in-a-linked-list](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0705-design-hashset](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |

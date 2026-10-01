@@ -97,6 +97,7 @@ LeetCode-Solutions/
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0372-super-pow](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0372-super-pow/) | Medium |
 | [0836-rectangle-overlap](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -349,6 +350,7 @@ LeetCode-Solutions/
 | [0004-median-of-two-sorted-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0372-super-pow](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0372-super-pow/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -583,4 +585,12 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0321-create-maximum-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0321-create-maximum-number/) | Hard |
+## Euler's Totient Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0372-super-pow](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0372-super-pow/) | Medium |
+## Euler's Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0372-super-pow](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0372-super-pow/) | Medium |
 <!---LeetCode Topics End-->

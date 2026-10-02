@@ -4,27 +4,35 @@
 #         self.val = val
 #         self.next = next
 
+# class Solution(object):
+#     def getDecimalValue(self, head):
+#         """
+#         :type head: Optional[ListNode]
+#         :rtype: int
+#         """
+
+#         count = 1
+#         temp = head
+
+#         while temp.next is not None:
+#             count += 1
+#             temp = temp.next
+#         print(count)
+
+#         sum1 = 0
+#         temp = head
+
+#         while temp is not None:
+#             sum1 += temp.val * (2 ** (count-1))
+#             temp = temp.next
+#             count -= 1
+
+#         return sum1 
 class Solution(object):
     def getDecimalValue(self, head):
-        """
-        :type head: Optional[ListNode]
-        :rtype: int
-        """
-
-        count = 0
+        ans = 0
         temp = head
-
-        while temp.next is not None:
-            count += 1
-            temp = temp.next
-        print(count)
-
-        sum1 = 0
-        temp = head
-
         while temp is not None:
-            sum1 += temp.val * (2 ** (count))
+            ans = ans*2+temp.val
             temp = temp.next
-            count -= 1
-
-        return sum1
+        return ans

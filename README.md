@@ -232,6 +232,7 @@ LeetCode-Solutions/
 | [0137-single-number-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0191-number-of-1-bits](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0260-single-number-iii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0338-counting-bits/) | Easy |

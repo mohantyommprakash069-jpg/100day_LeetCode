@@ -106,6 +106,7 @@ LeetCode-Solutions/
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
+| [3099-harshad-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3099-harshad-number/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |

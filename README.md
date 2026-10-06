@@ -89,6 +89,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0067-add-binary/) | Easy |
@@ -228,6 +229,7 @@ LeetCode-Solutions/
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0137-single-number-ii/) | Medium |

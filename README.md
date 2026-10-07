@@ -449,6 +449,7 @@ LeetCode-Solutions/
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -547,6 +548,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -555,6 +557,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -562,6 +565,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |

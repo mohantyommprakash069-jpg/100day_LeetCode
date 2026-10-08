@@ -99,6 +99,7 @@ LeetCode-Solutions/
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0372-super-pow](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0372-super-pow/) | Medium |
 | [0836-rectangle-overlap](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -239,6 +240,7 @@ LeetCode-Solutions/
 | [0260-single-number-iii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0338-counting-bits/) | Easy |
+| [0342-power-of-four](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -516,6 +518,7 @@ LeetCode-Solutions/
 | [0203-remove-linked-list-elements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0342-power-of-four](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |

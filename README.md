@@ -194,6 +194,7 @@ LeetCode-Solutions/
 | [0321-create-maximum-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0682-baseball-game](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0704-binary-search/) | Easy |

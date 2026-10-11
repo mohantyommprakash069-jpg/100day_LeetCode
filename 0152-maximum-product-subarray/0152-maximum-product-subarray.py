@@ -13,22 +13,16 @@
 class Solution(object):
     def maxProduct(self, nums):
         maxi = nums[0]
-        product = 1
+        mini = nums[0]
+        ans = nums[0]
 
-        for i in range(len(nums)):
-            product *= nums[i]
-            maxi = max(maxi, product)
+        for i in range(1, len(nums)):
+            if nums[i] < 0:
+                maxi, mini = mini, maxi
 
-            if product == 0:
-                product = 1
+            maxi = max(nums[i], maxi * nums[i])
+            mini = min(nums[i], mini * nums[i])
 
-        product = 1
+            ans = max(ans, maxi)
 
-        for i in range(len(nums)-1, -1, -1):
-            product *= nums[i]
-            maxi = max(maxi, product)
-
-            if product == 0:
-                product = 1
-
-        return maxi
+        return ans

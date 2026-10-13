@@ -173,6 +173,7 @@ LeetCode-Solutions/
 | [0066-plus-one](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -366,6 +367,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0372-super-pow](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0372-super-pow/) | Medium |
@@ -559,6 +561,7 @@ LeetCode-Solutions/
 | [0094-binary-tree-inorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -576,6 +579,7 @@ LeetCode-Solutions/
 | [0094-binary-tree-inorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -622,4 +626,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0372-super-pow](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0372-super-pow/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->

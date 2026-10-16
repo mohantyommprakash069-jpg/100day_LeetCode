@@ -101,6 +101,7 @@ LeetCode-Solutions/
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0372-super-pow](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0372-super-pow/) | Medium |
+| [0509-fibonacci-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -426,6 +427,7 @@ LeetCode-Solutions/
 | [0152-maximum-product-subarray](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0509-fibonacci-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -530,6 +532,7 @@ LeetCode-Solutions/
 | [0206-reverse-linked-list](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -633,4 +636,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->

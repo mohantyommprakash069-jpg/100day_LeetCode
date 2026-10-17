@@ -88,6 +88,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0050-powx-n/) | Medium |

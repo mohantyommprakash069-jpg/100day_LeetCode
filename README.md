@@ -102,6 +102,7 @@ LeetCode-Solutions/
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0372-super-pow](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0372-super-pow/) | Medium |
+| [0507-perfect-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |

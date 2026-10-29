@@ -14,22 +14,25 @@ class Solution(object):
 
         # return candidate
 
-        count = {}
+        # count = {}
 
-        for i in nums:
-            if i in count:
-                count[i] += 1
-            else:
-                count[i] = 1
+        # for i in nums:
+        #     if i in count:
+        #         count[i] += 1
+        #     else:
+        #         count[i] = 1
 
-            if count[i] > len(nums) // 2:
-                return i
+        #     if count[i] > len(nums) // 2:
+        #         return i
 
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                if nums[i]>nums[j]:
-                    temp = nums[i]
-                    nums[i] = nums[j]
-                    nums[j] = temp
+        # for i in range(len(nums)):
+        #     for j in range(i+1,len(nums)):
+        #         if nums[i]>nums[j]:
+        #             temp = nums[i]
+        #             nums[i] = nums[j]
+        #             nums[j] = temp
         mid=len(nums)//2
-        return nums[mid]            
+        # return nums[mid]
+        nums.sort()
+        return nums[mid]
+                    

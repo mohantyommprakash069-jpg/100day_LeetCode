@@ -259,6 +259,7 @@ LeetCode-Solutions/
 | [0187-repeated-dna-sequences](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0191-number-of-1-bits](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0231-power-of-two](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -374,6 +375,7 @@ LeetCode-Solutions/
 | [0162-find-peak-element](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0268-missing-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -604,6 +606,7 @@ LeetCode-Solutions/
 | [0110-balanced-binary-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -630,6 +633,7 @@ LeetCode-Solutions/
 | [0110-balanced-binary-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |

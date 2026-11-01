@@ -181,6 +181,7 @@ LeetCode-Solutions/
 | [0035-search-insert-position](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -358,6 +359,7 @@ LeetCode-Solutions/
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0682-baseball-game](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -504,6 +506,7 @@ LeetCode-Solutions/
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0835-image-overlap](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |

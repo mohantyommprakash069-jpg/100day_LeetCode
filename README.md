@@ -234,6 +234,7 @@ LeetCode-Solutions/
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |

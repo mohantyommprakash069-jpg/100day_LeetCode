@@ -5,16 +5,17 @@ class Solution(object):
         :rtype: str
         """
 
-        seen = {}
+        d = {}
+        for i in s:
+            if i in d:
+                d[i] += 1
+            else:
+                d[i] = 1
 
-        for i in range(len(s)):
-            seen[s[i]] = seen.get(s[i], 0) + 1
+        result = sorted(d.items(), key=lambda x: x[1], reverse=True)
 
-        seen = sorted(seen.items(), key=lambda x: x[1], reverse=True)
+        s = ""
+        for key, value in result:
+            s += key * value
 
-        result = ""
-
-        for key, val in seen:
-            result += key * val
-
-        return result
+        return s

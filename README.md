@@ -83,6 +83,7 @@ LeetCode-Solutions/
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1748-sum-of-unique-elements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -241,6 +242,7 @@ LeetCode-Solutions/
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1748-sum-of-unique-elements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -423,6 +425,7 @@ LeetCode-Solutions/
 | [0229-majority-element-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1748-sum-of-unique-elements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |

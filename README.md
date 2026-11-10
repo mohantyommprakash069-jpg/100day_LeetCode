@@ -247,6 +247,7 @@ LeetCode-Solutions/
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2706-buy-two-chocolates](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -368,6 +369,7 @@ LeetCode-Solutions/
 | [1096-brace-expansion-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Simulation
@@ -426,6 +428,7 @@ LeetCode-Solutions/
 | [0387-first-unique-character-in-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |

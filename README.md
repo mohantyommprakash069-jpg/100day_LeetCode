@@ -721,4 +721,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->

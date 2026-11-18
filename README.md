@@ -63,6 +63,7 @@ LeetCode-Solutions/
 | [0128-longest-consecutive-sequence](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
@@ -339,6 +340,7 @@ LeetCode-Solutions/
 | [0088-merge-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -466,6 +468,7 @@ LeetCode-Solutions/
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -636,6 +639,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0202-happy-number/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |

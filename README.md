@@ -199,6 +199,7 @@ LeetCode-Solutions/
 | [0054-spiral-matrix](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -279,6 +280,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
@@ -718,6 +720,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0078-subsets/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |

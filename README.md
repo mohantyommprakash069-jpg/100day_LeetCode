@@ -118,6 +118,7 @@ LeetCode-Solutions/
 | [0507-perfect-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1175-prime-arrangements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1175-prime-arrangements/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -598,14 +599,17 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
+| [1175-prime-arrangements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1175-prime-arrangements/) | Easy |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
+| [1175-prime-arrangements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1175-prime-arrangements/) | Easy |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
+| [1175-prime-arrangements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1175-prime-arrangements/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |

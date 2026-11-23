@@ -127,6 +127,7 @@ LeetCode-Solutions/
 | [1688-count-of-matches-in-tournament](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [3099-harshad-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3099-harshad-number/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -403,6 +404,7 @@ LeetCode-Solutions/
 | [1929-concatenation-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Binary Search
@@ -594,22 +596,26 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1175-prime-arrangements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1175-prime-arrangements/) | Easy |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1175-prime-arrangements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1175-prime-arrangements/) | Easy |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1175-prime-arrangements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1175-prime-arrangements/) | Easy |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -762,4 +768,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0148-sort-list/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 <!---LeetCode Topics End-->

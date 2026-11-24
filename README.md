@@ -92,6 +92,7 @@ LeetCode-Solutions/
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Math
@@ -128,6 +129,7 @@ LeetCode-Solutions/
 | [1903-largest-odd-number-in-string](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3099-harshad-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3099-harshad-number/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -266,6 +268,7 @@ LeetCode-Solutions/
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -597,6 +600,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
@@ -604,18 +608,21 @@ LeetCode-Solutions/
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1175-prime-arrangements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1175-prime-arrangements/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1175-prime-arrangements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1175-prime-arrangements/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1175-prime-arrangements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1175-prime-arrangements/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -772,4 +779,13 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 <!---LeetCode Topics End-->

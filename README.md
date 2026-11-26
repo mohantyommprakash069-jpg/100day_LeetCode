@@ -142,6 +142,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
@@ -339,6 +340,7 @@ LeetCode-Solutions/
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -500,6 +502,7 @@ LeetCode-Solutions/
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0053-maximum-subarray/) | Medium |
@@ -788,4 +791,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->

@@ -131,6 +131,7 @@ LeetCode-Solutions/
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2867-count-valid-paths-in-a-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2867-count-valid-paths-in-a-tree/) | Hard |
 | [3044-most-frequent-prime](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3044-most-frequent-prime/) | Medium |
 | [3099-harshad-number](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3099-harshad-number/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -524,6 +525,7 @@ LeetCode-Solutions/
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2867-count-valid-paths-in-a-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2867-count-valid-paths-in-a-tree/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
@@ -610,6 +612,7 @@ LeetCode-Solutions/
 | [0204-count-primes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0204-count-primes/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2867-count-valid-paths-in-a-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2867-count-valid-paths-in-a-tree/) | Hard |
 | [3044-most-frequent-prime](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3044-most-frequent-prime/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Primality Test
@@ -619,6 +622,7 @@ LeetCode-Solutions/
 | [1175-prime-arrangements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1175-prime-arrangements/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2867-count-valid-paths-in-a-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2867-count-valid-paths-in-a-tree/) | Hard |
 | [3044-most-frequent-prime](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3044-most-frequent-prime/) | Medium |
 ## Sieve Theory
 | Problem Name | Difficulty |
@@ -627,6 +631,7 @@ LeetCode-Solutions/
 | [1175-prime-arrangements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1175-prime-arrangements/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2867-count-valid-paths-in-a-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2867-count-valid-paths-in-a-tree/) | Hard |
 | [3044-most-frequent-prime](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3044-most-frequent-prime/) | Medium |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
@@ -635,6 +640,7 @@ LeetCode-Solutions/
 | [1175-prime-arrangements](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/1175-prime-arrangements/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2867-count-valid-paths-in-a-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2867-count-valid-paths-in-a-tree/) | Hard |
 | [3044-most-frequent-prime](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/3044-most-frequent-prime/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -697,6 +703,7 @@ LeetCode-Solutions/
 | [0145-binary-tree-postorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2867-count-valid-paths-in-a-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2867-count-valid-paths-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -708,6 +715,7 @@ LeetCode-Solutions/
 | [0144-binary-tree-preorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2867-count-valid-paths-in-a-tree](https://github.com/mohantyommprakash069-jpg/100day_LeetCode/tree/main/2867-count-valid-paths-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
